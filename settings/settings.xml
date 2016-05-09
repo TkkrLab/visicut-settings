@@ -1,4 +1,5 @@
 <visicutPreferences>
+  <defaultMapping>Cut red, engrave black and bitmaps, mark blue</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <labName>TkkrLab</labName>
