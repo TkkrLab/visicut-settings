@@ -1,9 +1,0 @@
-<material>
-  <engraveColor>#000000</engraveColor>
-  <cutColor>#ff6633</cutColor>
-  <color>#ffffff</color>
-  <name>Acryl Zwart</name>
-  <materialThicknesses>
-    <float>2.0</float>
-  </materialThicknesses>
-</material>
