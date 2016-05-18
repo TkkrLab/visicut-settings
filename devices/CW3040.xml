@@ -11,7 +11,7 @@
     <supportedResolutions>100,200,300,400,500,1000</supportedResolutions>
     <waitForOKafterEachLine>true</waitForOKafterEachLine>
     <preJobGcode>G28 X0 Y0,G21,G90,M3</preJobGcode>
-    <postJobGcode>G0 X5 Y5,M5</postJobGcode>
+    <postJobGcode>G0 X0 Y0,M5</postJobGcode>
     <serialTimeout>15000</serialTimeout>
     <exportPath></exportPath>
     <uploadMethod>IP</uploadMethod>
@@ -29,7 +29,7 @@
     <nextPower>-1.0</nextPower>
     <nextSpeed>-1.0</nextSpeed>
     <currentFocus>0.0</currentFocus>
-    <bedWidth>400.0</bedWidth>
+    <bedWidth>420.0</bedWidth>
     <bedHeight>300.0</bedHeight>
   </laserCutter>
   <cameraCalibration serialization="custom">
