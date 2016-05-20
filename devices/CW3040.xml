@@ -14,10 +14,10 @@
     <postJobGcode>G0 X0 Y0,M5</postJobGcode>
     <serialTimeout>15000</serialTimeout>
     <exportPath></exportPath>
-    <uploadMethod>IP</uploadMethod>
+    <uploadMethod>HTTP</uploadMethod>
     <identificationLine>Smoothie</identificationLine>
     <initDelay>0</initDelay>
-    <host>10.42.5.152</host>
+    <host>lazor.tkkrlab.local</host>
     <comport>auto</comport>
     <max__speed>2400.0</max__speed>
     <travel__speed>2400.0</travel__speed>
