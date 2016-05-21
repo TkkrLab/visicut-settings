@@ -6,7 +6,7 @@
     <baudRate>115200</baudRate>
     <flipXaxis>false</flipXaxis>
     <flipYaxis>true</flipYaxis>
-    <httpUploadUrl>http://10.42.5.152/upload</httpUploadUrl>
+    <httpUploadUrl>http://lazor.tkkrlab.local/upload</httpUploadUrl>
     <autoPlay>true</autoPlay>
     <supportedResolutions>100,200,300,400,500,1000</supportedResolutions>
     <waitForOKafterEachLine>true</waitForOKafterEachLine>
