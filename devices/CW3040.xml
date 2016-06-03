@@ -17,7 +17,7 @@
     <uploadMethod>HTTP</uploadMethod>
     <identificationLine>Smoothie</identificationLine>
     <initDelay>0</initDelay>
-    <host>lazor.tkkrlab.local</host>
+    <host>lazor</host>
     <comport>auto</comport>
     <max__speed>2400.0</max__speed>
     <travel__speed>2400.0</travel__speed>
