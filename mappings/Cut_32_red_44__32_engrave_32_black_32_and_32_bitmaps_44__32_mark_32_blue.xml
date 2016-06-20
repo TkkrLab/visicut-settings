@@ -2,7 +2,7 @@
   <unserializable-parents/>
   <linked-list>
     <default/>
-    <int>6</int>
+    <int>5</int>
     <mapping>
       <a class="filters" serialization="custom">
         <unserializable-parents/>
@@ -64,7 +64,7 @@
         <invertColors>false</invertColors>
         <colorShift>0</colorShift>
         <ditherAlgorithm class="com.t_oster.liblasercut.dithering.FloydSteinberg">
-          <progress>98</progress>
+          <progress>99</progress>
         </ditherAlgorithm>
       </b>
     </mapping>
@@ -133,17 +133,6 @@
         <useOutline>false</useOutline>
         <isCut>true</isCut>
         <width>1.0</width>
-      </b>
-    </mapping>
-    <mapping>
-      <b class="vectorProfile">
-        <DPI>500.0</DPI>
-        <description>Cut through the material</description>
-        <name>cut</name>
-        <orderStrategy>INNER_FIRST</orderStrategy>
-        <useOutline>false</useOutline>
-        <isCut>true</isCut>
-        <width>0.7</width>
       </b>
     </mapping>
     <mapping>
