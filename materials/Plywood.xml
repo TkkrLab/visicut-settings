@@ -1,8 +1,8 @@
 <material>
   <description>Plywood</description>
   <thumbnailPath>Plywood.png</thumbnailPath>
-  <engraveColor>#ff3333</engraveColor>
-  <cutColor>#000000</cutColor>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff3333</cutColor>
   <color>#ccffcc</color>
   <name>Plywood</name>
   <materialThicknesses>
