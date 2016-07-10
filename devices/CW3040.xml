@@ -29,7 +29,7 @@
     <nextPower>-1.0</nextPower>
     <nextSpeed>-1.0</nextSpeed>
     <currentFocus>0.0</currentFocus>
-    <bedWidth>420.0</bedWidth>
+    <bedWidth>400.0</bedWidth>
     <bedHeight>300.0</bedHeight>
   </laserCutter>
   <cameraCalibration serialization="custom">
