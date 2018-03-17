@@ -1,0 +1,67 @@
+<laserDevice>
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job was sent.</jobSentText>
+  <jobPrefix>visicut </jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.SmoothieBoard">
+    <lineend>CRLF</lineend>
+    <baudRate>115200</baudRate>
+    <flipXaxis>true</flipXaxis>
+    <flipYaxis>false</flipYaxis>
+    <httpUploadUrl>http://lasercutter.tkkrlab/upload</httpUploadUrl>
+    <autoPlay>true</autoPlay>
+    <supportedResolutions>100,200,300,400,500,1000</supportedResolutions>
+    <waitForOKafterEachLine>false</waitForOKafterEachLine>
+    <preJobGcode>G21,G90,G28 X0 Y0,M3</preJobGcode>
+    <postJobGcode>M5,G0 X0 Y0</postJobGcode>
+    <serialTimeout>15000</serialTimeout>
+    <exportPath></exportPath>
+    <uploadMethod>HTTP</uploadMethod>
+    <identificationLine>Smoothie</identificationLine>
+    <initDelay>0</initDelay>
+    <host>lasercutter.tkkrlab</host>
+    <comport>auto</comport>
+    <max__speed>7500.0</max__speed>
+    <travel__speed>10000.0</travel__speed>
+    <blankLaserDuringRapids>true</blankLaserDuringRapids>
+    <useBidirectionalRastering>true</useBidirectionalRastering>
+    <spindleMax>1.0</spindleMax>
+    <currentPower>0.8</currentPower>
+    <currentSpeed>10.0</currentSpeed>
+    <nextPower>0.8</nextPower>
+    <nextSpeed>10.0</nextSpeed>
+    <currentFocus>0.0</currentFocus>
+    <out>
+      <autoFlush>false</autoFlush>
+      <trouble>false</trouble>
+      <formatter>
+        <a class="java.io.PrintStream" reference="../.."/>
+        <l>en_US</l>
+        <zero>0</zero>
+      </formatter>
+      <closing>true</closing>
+    </out>
+    <outputBuffer>
+      <buf></buf>
+      <count>16051</count>
+    </outputBuffer>
+    <jobName>visicut.gcode</jobName>
+    <resolutions class="linked-list">
+      <double>100.0</double>
+      <double>200.0</double>
+      <double>300.0</double>
+      <double>400.0</double>
+      <double>500.0</double>
+      <double>1000.0</double>
+    </resolutions>
+    <bedWidth>400.0</bedWidth>
+    <bedHeight>300.0</bedHeight>
+    <rasterPadding>0.0</rasterPadding>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <thumbnailPath>tkkrlaser.png</thumbnailPath>
+  <description>Tkkrlab lasercutter</description>
+  <name>tkkrlaser</name>
+</laserDevice>
