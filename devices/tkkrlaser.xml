@@ -20,7 +20,7 @@
     <initDelay>0</initDelay>
     <host>lasercutter.tkkrlab</host>
     <comport>auto</comport>
-    <max__speed>7500.0</max__speed>
+    <max__speed>10000.0</max__speed>
     <travel__speed>10000.0</travel__speed>
     <blankLaserDuringRapids>true</blankLaserDuringRapids>
     <useBidirectionalRastering>true</useBidirectionalRastering>
