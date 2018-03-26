@@ -1,7 +1,7 @@
 <linked-list>
   <com.t__oster.liblasercut.FloatPowerSpeedFocusProperty>
-    <power>60.0</power>
-    <speed>7.5</speed>
+    <power>15.0</power>
+    <speed>100.0</speed>
     <focus>0.0</focus>
   </com.t__oster.liblasercut.FloatPowerSpeedFocusProperty>
 </linked-list>
