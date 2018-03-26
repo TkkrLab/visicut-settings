@@ -1,0 +1,12 @@
+<material>
+  <description>Vinyl</description>
+  <thumbnailPath>Vinyl.png</thumbnailPath>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#914fde</color>
+  <name>Vinyl</name>
+  <materialThicknesses>
+    <float>0.06</float>
+  </materialThicknesses>
+</material>
+
