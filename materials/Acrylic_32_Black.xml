@@ -1,13 +1,11 @@
 <material>
   <description>Acrylic- or Plexiglass</description>
-  <thumbnailPath>Acrylic.png</thumbnailPath>
+  <thumbnailPath>Acrylic_32_Black.png</thumbnailPath>
   <engraveColor>#000000</engraveColor>
   <cutColor>#ff3333</cutColor>
   <color>#ffffff</color>
-  <name>Acrylic</name>
+  <name>Acrylic Black</name>
   <materialThicknesses>
     <float>2.0</float>
-    <float>3.0</float>
-    <float>4.0</float>
   </materialThicknesses>
 </material>
