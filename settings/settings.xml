@@ -11,20 +11,15 @@
   <fabqrPrivateUser></fabqrPrivateUser>
   <fabqrPrivatePassword></fabqrPrivatePassword>
   <windowBounds>
-    <x>40</x>
+    <x>177</x>
     <y>23</y>
-    <width>1369</width>
-    <height>843</height>
+    <width>1161</width>
+    <height>798</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles>
-    <string>/Users/zeno/.visicut/examples/cut engrave mark.svg</string>
-    <string>/Users/zeno/.visicut/examples/block.svg</string>
-    <string>/Users/zeno/.visicut/examples/block filled.svg</string>
-    <string>/Users/zeno/.visicut/examples/testpattern.ls</string>
-    <string>/Users/zeno/.visicut/examples/text.svg</string>
   </recentFiles>
-  <lastMaterial>Acrylic</lastMaterial>
+  <lastMaterial></lastMaterial>
   <lastLaserDevice>tkkrlaser</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
