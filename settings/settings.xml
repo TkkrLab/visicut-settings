@@ -11,15 +11,14 @@
   <fabqrPrivateUser></fabqrPrivateUser>
   <fabqrPrivatePassword></fabqrPrivatePassword>
   <windowBounds>
-    <x>177</x>
-    <y>23</y>
-    <width>1161</width>
-    <height>798</height>
+    <x>109</x>
+    <y>0</y>
+    <width>1145</width>
+    <height>732</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
-  <recentFiles>
-  </recentFiles>
-  <lastMaterial></lastMaterial>
+  <recentFiles/>
+  <lastMaterial>Acrylic</lastMaterial>
   <lastLaserDevice>tkkrlaser</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
