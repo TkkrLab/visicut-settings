@@ -1,0 +1,11 @@
+<material>
+  <description>PolyPropyleen</description>
+  <thumbnailPath>PP.png</thumbnailPath>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff3333</cutColor>
+  <color>#ffe13a</color>
+  <name>PP</name>
+  <materialThicknesses>
+    <float>2.0</float>
+  </materialThicknesses>
+</material>
